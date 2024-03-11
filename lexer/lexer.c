@@ -10,7 +10,7 @@
 /* front.c - a lexical analyzer system for simple arithmetic expressions */
 #include <stdio.h>
 #include <ctype.h>
-
+jj
 /* Global declarations */
 /* Variables */
 int charClass;
